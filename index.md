@@ -133,3 +133,5 @@ window.zESettings = {
    }
 }
 </script>
+<script async defer data-domain="jobs.premiumplus.io" src="https://plausible.io/js/plausible.js"></script>
+
