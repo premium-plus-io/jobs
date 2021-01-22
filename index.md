@@ -96,4 +96,5 @@ These example projects should be within the technical scope we’re looking for 
 These can be real projects, demo apps you made to test something out, or an app based on our example app scope provided in #2 above.
 
 <!-- scripts -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=bdd32cc9-4230-4e32-aff5-382efe7337d6"> </script>
 <script src="https://widgetscript.premiumplus.io/script.js?v3"></script>
