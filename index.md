@@ -102,7 +102,7 @@ Premium Plus
 
 - [+ 32 3 303 44 90](tel:+3233034490)
 - [support@premiumplus.io](mailto:support@premiumplus.io)
-- [premiumplus.io](https://premiumplus.io) - [APPS by premiumplus](https://premiumplus.app) - 
+- [premiumplus.io](https://premiumplus.io) - [APPS by premiumplus](https://premiumplus.app)
 
 Offices : Antwerp - Lille - London	
 
