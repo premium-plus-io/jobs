@@ -1,4 +1,4 @@
-!()[img src="img/logo.png"]
+![](logo.png)
 
 # Zendesk App Developer - Vacature
 
