@@ -95,5 +95,5 @@ Use the widget below or send an email to [thomasverschoren@premiumplus.io](mailt
 These example projects should be within the technical scope we’re looking for and preferably a Github repo. 
 These can be real projects, demo apps you made to test something out, or an app based on our example app scope provided in #2 above.
 
-//Scripts
+<!-- scripts -->
 <script src="https://widgetscript.premiumplus.io/script.js?v3"></script>
