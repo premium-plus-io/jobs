@@ -1,4 +1,8 @@
-<img src="logo_black.png" height="64">
+<head>
+  <title>JOBS at premiumplus.io</title> 
+</head>
+  
+  <img src="logo_black.png" height="64">
 
 # Zendesk App Developer - Vacature
 
