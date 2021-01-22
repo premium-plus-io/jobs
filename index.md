@@ -1,4 +1,4 @@
-![](/logo.png)
+![](logo_black.png)
 
 # Zendesk App Developer - Vacature
 
