@@ -6,6 +6,8 @@ Premium Plus is looking for an extra developer to join our development team.
 
 We are a Zendesk Master Partner specialised in integrating external platforms into Zendesk and making external data available to agents in Zendesk.
 
+<img src="banner.png" style="width:100%;max-width:512px">
+
 # 1. What we build
 ## Zendesk Sidebar Apps
 - Get data from external API sources (CSV, HTTP API, SOAP,..)
@@ -94,6 +96,13 @@ Use the widget below or send an email to [thomasverschoren@premiumplus.io](mailt
 
 These example projects should be within the technical scope we’re looking for and preferably a Github repo. 
 These can be real projects, demo apps you made to test something out, or an app based on our example app scope provided in #2 above.
+
+## Contact info
+Premium Plus
+Tel + 32 3 303 44 90
+[support@premiumplus.io](mailto:support@premiumplus.io)
+[premiumplus.io](https://premiumplus.io) - [APPS by premiumplus](https://premiumplus.app) - 
+Offices : Antwerp - Lille - London	
 
 <!-- scripts -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=bdd32cc9-4230-4e32-aff5-382efe7337d6"> </script>
