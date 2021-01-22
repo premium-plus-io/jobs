@@ -1,10 +1,4 @@
-<head>
-  <title>JOBS at premiumplus.io</title> 
-  <link rel="icon" href="https://premiumplus.io/wp-content/uploads/2020/04/favicon2.png">
-  <link rel="apple-touch-icon" href="https://premiumplus.io/wp-content/uploads/2020/04/favicon2.png">
-</head>
-  
-  <img src="logo_black.png" height="64">
+<img src="logo_black.png" height="64">
 
 # Zendesk App Developer - Vacature
 
