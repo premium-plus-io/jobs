@@ -6,6 +6,8 @@ Premium Plus is looking for an extra developer to join our development team.
 
 We are a Zendesk Master Partner specialised in integrating external platforms into Zendesk and making external data available to agents in Zendesk.
 
+[premiumplus.io](https://premiumplus.io) | [APPS by premiumplus](https://premiumplus.app)
+
 <img src="banner.png" style="width:100%;max-width:512px">
 
 # What we do
@@ -73,16 +75,21 @@ Premium Plus is a fast-growing and award-winning Zendesk partner with over 500 h
 - What we develop is shared across Zendesk and visible for their customers via the Zendesk Marketplace
 - Working from one of our offices, at home or with clients 
 - Attractive salary conditions
+- MacBook Pro, iPhone
+- Zendesk Certification
 
 # What we’re looking for
 We’re looking for a dynamic developer who can work across a broad range of projects. You’ll need to be able to work independently and take a project from concept to finished.
 
-The usual suspects of team player, flexible, fast, efficient are a part of the job ;-)
+The usual suspects of team player, flexible, fast, efficient apply ;-)
 
 You become a Premium Plus’er from A to Z, helping any customer or employee with a lot of drive.
+
 You participate in projects to make Premium Plus even more fun and better and give second line support to our FLOH team (First Line Of Help) in answering and resolving support questions that come in from our customers or suppliers.
 
 ## Requirements
+You have a knowledge of
+
 - HTML
 - CSS
 - Javascript
@@ -90,29 +97,19 @@ You participate in projects to make Premium Plus even more fun and better and gi
 - HTTP POST/GET
 
 ## Nice to know:
-- [Zendesk Platform, Zendesk API and Zendesk Custom Objects](https://developer.zendesk.com)
-- [Cloudflare and Cloudflare Workers](https://workers.cloudflare.com/)
-- [Git and GitHub Actions](https://github.com/features/actions)
-- Tailwind CSS, SASS
-- ReactJS, Node.js, ES6 Javascript
+- Zendesk Platform,[Zendesk API](https://developer.zendesk.com) and Zendesk Sunshine
 - [Zendesk Garden design platform](https://garden.zendesk.com)
-
-We work within the macOS environment and you get an iPhone and MacBook Pro to work on.
+- [Cloudflare Workers](https://workers.cloudflare.com/)
+- [GitHub Actions](https://github.com/features/actions)
+- [Tailwind CSS](https://tailwindcss.com/), SASS
+- ReactJS, Node.js, ES6 Javascript
+- JWT and SAML2
 
 # How to apply
 Use the widget below or send an email to [thomasverschoren@premiumplus.io](mailto:thomasverschoren@premiumplus.io) with a short motivation and a link to some example projects.
 
-These example projects should be within the technical scope we’re looking for and preferably a Github repo. 
+These example projects are preferably be within the technical scope we’re looking for and in a Github repo. 
 These can be real projects, demo apps you made to test something out, or an app based on our example app scope provided in #2 above.
-
-## Contact info
-Premium Plus
-
-- [+ 32 3 303 44 90](tel:+3233034490)
-- [support@premiumplus.io](mailto:support@premiumplus.io)
-- [premiumplus.io](https://premiumplus.io) - [APPS by premiumplus](https://premiumplus.app)
-
-Offices : Antwerp - Lille - London	
 
 <!-- scripts -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f92dacad-2562-4833-987c-3998d59ceae0"> </script>
