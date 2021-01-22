@@ -8,7 +8,7 @@ We are a Zendesk Master Partner specialised in integrating external platforms in
 
 <img src="banner.png" style="width:100%;max-width:512px">
 
-# 1. What we build
+# What we build
 ## Zendesk Sidebar Apps
 - Get data from external API sources (CSV, HTTP API, SOAP,..)
 - Show data in an HTML frame powered by Javascript/JQuery
@@ -29,7 +29,7 @@ We are a Zendesk Master Partner specialised in integrating external platforms in
 - Build proof of concept use cases for new Zendesk technologies
 - Build missing Zendesk functionality via Zendesk (Marketplace) Apps
 
-# 2. What we often build
+# What we often build
 Below is a typical setup as requested by our clients:
 
 ## Basic requirements
@@ -43,7 +43,7 @@ Below is a typical setup as requested by our clients:
 - Once a match is selected we store a reference in a linked ticket field so the ticket will retrieve the value automatically the next time
 - Design of the app makes uses of the Zendesk Garden framework
 
-# 3. How we work
+# How we work
 Our development team is currently two developers. We work autonomously on projects from concept to delivered product. Before going live the other team member reviews the app and can give feedback or create issues.
 
 We work mostly remote with regular status meetings, and meet on a regular basis in our offices in Antwerp (if COVID restrictions allow) to catch up and discuss projects.
@@ -52,21 +52,21 @@ We develop as part of an existing customer project that contains Zendesk configu
 
 All development for customer tools starts and stops as part of a project and changes are made by request of a customer in a new project.
 
-# 4. Premium Plus
+# Premium Plus
 Need help managing customer expectations? At Premium Plus, we’re eager to help you make a difference, guiding you to an easy-to-use cloud solution for customer service that perfectly fits your brand’s style and voice.
 
 From Aircall to Zendesk, we provide sales and support teams with the right processes, tools, set-up, and insights to deliver the top-notch service and unified customer experience that people have come to expect from their favourite brands. Anytime, anywhere. 
 
 Premium Plus is a fast-growing and award-winning Zendesk partner with over 500 happy clients across Europe and offices in Benelux, France, and the UK. We are the plus in your customer experience.
 
-# 5. What can we offer you?
+# What can we offer you?
 - Be part of a dynamic young team in a fast growing company
 - You can work with and for big brands in Europe and make an actual impact on the way they offer customer care
 - What we develop is shared across Zendesk and visible for their customers via the Zendesk Marketplace
 - Working from one of our offices, at home or with clients 
 - Attractive salary conditions
 
-# 6. What we’re looking for
+# What we’re looking for
 We’re looking for a dynamic developer who can work across a broad range of projects. You’ll need to be able to work independently and take a project from concept to finished.
 
 The usual suspects of team player, flexible, fast, efficient are a part of the job ;-)
@@ -89,9 +89,9 @@ You participate in projects to make Premium Plus even more fun and better and gi
 - ReactJS, Node.js, ES6 Javascript
 - [Zendesk Garden design platform](https://garden.zendesk.com)
 
-We work within the macOS environment
+We work within the macOS environment and you get an iPhone and MacBook Pro to work on.
 
-# 7. How to apply
+# How to apply
 Use the widget below or send an email to [thomasverschoren@premiumplus.io](mailto:thomasverschoren@premiumplus.io) with a short motivation and a link to some example projects.
 
 These example projects should be within the technical scope we’re looking for and preferably a Github repo. 
