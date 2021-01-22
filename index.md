@@ -114,6 +114,9 @@ window.zESettings = {
       "launcher": {
          "label": {
             "*": "Apply now"
+         },
+         "mobile": {
+            "labelVisible": true
          }
       },
       "contactForm": {
