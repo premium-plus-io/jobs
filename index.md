@@ -108,4 +108,25 @@ Offices : Antwerp - Lille - London
 
 <!-- scripts -->
 <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f92dacad-2562-4833-987c-3998d59ceae0"> </script>
-<script src="https://widgetscript.premiumplus.io/script.js?v3"></script>
+<script type="text/javascript">
+window.zESettings = {
+   "webWidget": {
+      "launcher": {
+         "label": {
+            "*": "Apply now"
+         }
+      },
+      "contactForm": {
+         "title": {
+            "*": "Apply now"
+         },
+         "tags": [
+            "vacature"
+         ]
+      },
+      "color": {
+         "theme": "#2F2A93"
+      }
+   }
+}
+</script>
