@@ -1,4 +1,4 @@
-![](logo_black.png)
+<img src="logo_black.png" height="64">
 
 # Zendesk App Developer - Vacature
 
