@@ -80,9 +80,9 @@ You participate in projects to make Premium Plus even more fun and better and gi
 - HTTP POST/GET
 
 ## Nice to know:
-- Zendesk Platform, Zendesk API and Zendesk Custom Objects
-- Cloudflare and Cloudflare Workers
-- Git and GitHub Actions
+- [Zendesk Platform, Zendesk API and Zendesk Custom Objects](https://developer.zendesk.com)
+- [Cloudflare and Cloudflare Workers](https://workers.cloudflare.com/)
+- [Git and GitHub Actions](https://github.com/features/actions)
 - Tailwind CSS, SASS
 - ReactJS, Node.js, ES6 Javascript
 - [Zendesk Garden design platform](https://garden.zendesk.com)
@@ -94,3 +94,5 @@ Use the widget below or send an email to [thomasverschoren@premiumplus.io](mailt
 
 These example projects should be within the technical scope we’re looking for and preferably a Github repo. 
 These can be real projects, demo apps you made to test something out, or an app based on our example app scope provided in #2 above.
+
+<script src="https://widgetscript.premiumplus.io/script.js?v3"></script>t
