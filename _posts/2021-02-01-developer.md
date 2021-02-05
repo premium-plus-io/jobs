@@ -12,8 +12,6 @@ Premium Plus is looking for an extra developer to join our development team.
 
 We are a Zendesk Master Partner specialised in integrating external platforms into Zendesk and making external data available to agents in Zendesk.
 
-<img src="banner.png" style="width:100%;max-width:512px">
-
 # What we do
 ## Zendesk Sidebar Apps
 We build integrations for existing systems our customers use for Zendesk. These are almost always sidebar apps in Zendesk Support or Sell that link back via API to external sources.

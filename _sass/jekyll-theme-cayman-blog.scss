@@ -236,9 +236,19 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
+  }
+
+  h1,
+  h3,
+  h5 {
     color: $section-headings-color;
   }
 
+  h2,
+  h4,
+  h6 {
+    color: $section-headings-color-secondary;
+  }
   p {
     margin-bottom: 1em;
   }
