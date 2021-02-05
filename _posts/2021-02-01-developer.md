@@ -6,8 +6,6 @@ tagline: Premium Plus is looking for an extra developer to join our development 
 ---
 
 
-# Zendesk App Developer - Vacature
-
 Premium Plus is looking for an extra developer to join our development team.
 
 We are a Zendesk Master Partner specialised in integrating external platforms into Zendesk and making external data available to agents in Zendesk.
@@ -99,7 +97,7 @@ You have a knowledge of
 - HTTP POST/GET
 
 ## Nice to know:
-- Zendesk Platform,[Zendesk API](https://developer.zendesk.com) and Zendesk Sunshine
+- Zendesk Platform, [Zendesk API](https://developer.zendesk.com) and Zendesk Sunshine
 - [Zendesk Garden design platform](https://garden.zendesk.com)
 - [Cloudflare Workers](https://workers.cloudflare.com/)
 - [GitHub Actions](https://github.com/features/actions)

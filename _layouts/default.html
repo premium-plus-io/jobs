@@ -96,6 +96,12 @@ window.zESettings = {
             <h2 class="project-tagline">{{ page-tagline }}</h2>
             <!-- Post tagline -->
             {% if page.layout == 'post' %}
+        {% if page.layout == 'page' %}
+            <a href="/">Back</a>
+        {% endif %}
+        {% if page.layout == 'post' %}
+            <a href="/">Back</a>
+        {% endif %}
             <h2 class="project-date">
                 <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                     {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
