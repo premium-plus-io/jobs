@@ -1,14 +1,8 @@
 ---
 layout: post
----
-
----
-layout: page
 title: "Zendesk App Developer"
-permalink: developer
+permalink: /developer
 tagline: Premium Plus is looking for an extra developer to join our development team.
-ref: now
-order: 2
 ---
 
 
