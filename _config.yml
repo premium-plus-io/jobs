@@ -1,4 +1,31 @@
 title: Premium Plus Jobs
 description: Open positions at Premium Plus. Master Zendesk Partner in the EU.
 
-theme: jekyll-theme-cayman
+show_downloads: true
+
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://jobs.premiumplus.io" # change this to the base hostname & protocol for your site
+
+
+google_analytics:
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: "Premium Plus"
+image: /thumbnail-jumbo.png
+twitter:
+  username: premiumplusio
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['now', 'about', 'contact']

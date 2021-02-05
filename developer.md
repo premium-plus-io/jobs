@@ -8,8 +8,6 @@ Premium Plus is looking for an extra developer to join our development team.
 
 We are a Zendesk Master Partner specialised in integrating external platforms into Zendesk and making external data available to agents in Zendesk.
 
-[premiumplus.io](https://premiumplus.io) | [APPS by premiumplus](https://premiumplus.app)
-
 <img src="banner.png" style="width:100%;max-width:512px">
 
 # What we do
