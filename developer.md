@@ -1,6 +1,12 @@
+---
 layout: page
 title: "Zendesk App Developer"
 permalink: developer
+tagline: Premium Plus is looking for an extra developer to join our development team.
+ref: now
+order: 2
+---
+
 
 # Zendesk App Developer - Vacature
 
@@ -110,33 +116,3 @@ Use the widget below or send an email to [thomasverschoren@premiumplus.io](mailt
 
 These example projects are preferably be within the technical scope we’re looking for and in a Github repo. 
 These can be real projects, demo apps you made to test something out, or an app based on our example app scope provided in #2 above.
-
-<!-- scripts -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=f92dacad-2562-4833-987c-3998d59ceae0"> </script>
-<script type="text/javascript">
-window.zESettings = {
-   "webWidget": {
-      "launcher": {
-         "label": {
-            "*": "Apply now"
-         },
-         "mobile": {
-            "labelVisible": true
-         }
-      },
-      "contactForm": {
-         "title": {
-            "*": "Apply now"
-         },
-         "tags": [
-            "vacature"
-         ]
-      },
-      "color": {
-         "theme": "#2F2A93"
-      }
-   }
-}
-</script>
-<script async defer data-domain="jobs.premiumplus.io" src="https://plausible.io/js/plausible.js"></script>
-
