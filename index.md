@@ -9,5 +9,3 @@ layout: home
 ---
 
 Discover available job openings at Premium plus:
-
-- [Zendesk App Developer](developer)
