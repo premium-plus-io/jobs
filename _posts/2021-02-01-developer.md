@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zendesk App Developer"
+title: "Developer"
 permalink: /developer
 tagline: Premium Plus is looking for an extra developer to join our development team.
 ---
