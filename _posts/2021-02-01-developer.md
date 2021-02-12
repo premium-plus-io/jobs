@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Developer"
+title: "Web Developer"
 permalink: /developer
 tagline: Premium Plus is looking for an extra developer to join our development team.
 ---
