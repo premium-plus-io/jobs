@@ -5,6 +5,7 @@ permalink: /cx-consultant
 tagline: Premium Plus is looking for an extra Zendesk CX Consultant to join our team.
 ---
 
+We are looking for an extra Zendesk CX Consultant to join our team.
 
 Premium Plus helps the sales and support teams from your favourite brands make a real difference using Zendesk. By pushing the tool's boundaries and providing the right processes and insights, we enable our clients to deliver that top-notch service and unified experience their customers have come to expect. Anytime, anywhere. If you can see the massive opportunity here, then help us deliver on that promise.
 
