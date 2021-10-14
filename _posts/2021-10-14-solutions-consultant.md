@@ -42,7 +42,7 @@ As a Zendesk Solutions Consultant, you will follow up on incoming leads, generat
 - Training & personal development: you’ll be immersed in Zendesk. Training paths will be provided.
 
 
-**Do you fit the profile?**
+### Do you fit the profile?
 
 Put your Zendesk expertise to work and give your career a boost. Join our multi-award-winning team and play in the Champions League of CX consulting.
 
