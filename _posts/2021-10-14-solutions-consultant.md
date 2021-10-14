@@ -5,6 +5,8 @@ permalink: /cx-consultant
 tagline: We are looking for an extra Zendesk Solutions Consultant to join our team.
 ---
 
+We are looking for an extra Zendesk Solutions Consultant to join our team.
+
 Premium Plus helps sales and support teams from your favourite brands make a real difference to their customers, using Zendesk. By pushing the tool’s boundaries and providing the right processes and insights, we enable our clients to deliver that top-notch service and unified experience their customers have come to expect. Anytime, anywhere. If you can see the massive opportunity here, then help us deliver on that promise.
 
 As a Zendesk Solutions Consultant, you will follow up on incoming leads, generate your own sales pipeline and optimize our existing customer base. You’ll use your knowledge of Zendesk to spot opportunities and suggest the right solutions. You’ll be part of a fast growing international scale-up and a young and dynamic team that has recently been recognized by Zendesk as World Champion amongst all Zendesk Master Partners across the globe.
