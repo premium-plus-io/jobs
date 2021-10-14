@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zendesk Solutions Consultant"
-permalink: /cx-consultant
+permalink: /solutions-consultant
 tagline: We are looking for an extra Zendesk Solutions Consultant to join our team.
 ---
 
