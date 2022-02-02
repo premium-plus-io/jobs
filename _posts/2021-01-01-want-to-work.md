@@ -2,7 +2,7 @@
 layout: post
 title: "I want to work for you"
 permalink: /spontaneous
-tagline: Wnat to work for us but can't find an open position you like?
+tagline: Want to work for us but can't find an open position you like?
 ---
 
 We are always looking for enthousiastic people with a passion for Zendesk and Customer Care. 
