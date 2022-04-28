@@ -22,6 +22,6 @@ As a Zendesk CX Consultant, you will guide and train clients to use Zendesk bett
 
 **Fit the profile?**
 
-Put your Zendesk expertise to work and give your career a boost. Join our multi-award-winning team. We're throwing in the usual compensation and benefits and the opportunity to play in the Champions League of CX consulting. Feel free to join us at one of our offices in Antwerp (Belgium), London (UK), and Lille (France). Or work from home. We don’t mind, as long as we get the job done together.
+Put your Zendesk expertise to work and give your career a boost. Join our multi-award-winning team. We're throwing in the usual compensation and benefits and the opportunity to play in the Champions League of CX consulting. Feel free to join us at one of our offices in Antwerp (Belgium), Amsterdam (Netherlands), London (UK), and Lille (France). Or work from home. We don’t mind, as long as we get the job done together.
 
 **Apply via [kurt@premiumplus.io](mailto:kurt@premiumplus.io) or talk to [Kurt Pinoy](https://www.linkedin.com/in/kurtpinoy/) for more information.**
