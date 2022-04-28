@@ -18,7 +18,7 @@ As a Zendesk CX Consultant, you will guide and train clients to use Zendesk bett
 - Not yet? No problem, if you’re willing to go all-in from the start
 - Easygoing, streetwise and business savvy team player
 - Autonomous project management expert, keen on getting things done
-- Fluent in English, bonus points if you speak Dutch, French or German
+- Fluent in French (native language) and English
 
 **Fit the profile?**
 
